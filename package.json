@@ -1,0 +1,10 @@
+{
+  "name": "VideoPlayer",
+  "version": "0.1.0",
+  "author": "Jesus Joel Aviles Bermudez",
+  "description": "My Electron app",
+  "main": "src/js/main.js",
+  "scripts": {
+      "start": "electron ."
+  }
+}
